@@ -8,7 +8,7 @@
       <b-row>
         <b-col cols="12" lg="6">
         <b-form-group id="title-group"
-                    label="Titulo:"
+                    label="Titulos:"
                     label-for="title"
                     >
         <b-form-input id="title"
